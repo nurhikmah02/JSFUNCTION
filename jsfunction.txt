@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en"></html>
+
+<head>
+    <title>JS Function</title>
+</head>
+
+<body>
+    <p id ="demo"></p>
+    <script>
+        var x = myFunction ();
+        document.getElementById("demo").innerHTML = x;
+        function myFunction() {alert("Hello World);}
+
+	function myFunction("Hello World"){return()}
+    </script>
+</body
